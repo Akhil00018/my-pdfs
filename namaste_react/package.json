@@ -1,0 +1,32 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "this NR",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhil00018/NR.git"
+  },
+  "keywords": [],
+  "author": "Akhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhil00018/NR/issues"
+  },
+  "homepage": "https://github.com/Akhil00018/NR#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.3.0"
+  },
+  "browserslist": [
+    "last  4 versions"
+  ]
+}
